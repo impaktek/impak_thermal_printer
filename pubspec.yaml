@@ -1,7 +1,7 @@
 name: impak_thermal_printer
 description: "A Thermal printer library"
 version: 0.0.1
-homepage:
+homepage: https://github.com/impaktek/impak_thermal_printer
 
 environment:
   sdk: ^3.5.4

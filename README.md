@@ -189,7 +189,7 @@ The plugin throws exceptions with descriptive messages for various error conditi
 
 ## Example
 
-Check out the [example](example) directory for a complete example of how to use this plugin.
+Check out the [example](https://github.com/impaktek/impak_thermal_printer) directory for a complete example of how to use this plugin.
 
 ## Contributing
 
