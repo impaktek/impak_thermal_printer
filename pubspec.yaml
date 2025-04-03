@@ -2,6 +2,7 @@ name: impak_thermal_printer
 description: "A Thermal printer library"
 version: 0.0.1
 homepage: https://github.com/impaktek/impak_thermal_printer
+repository: https://github.com/impaktek/impak_thermal_printer
 
 environment:
   sdk: ^3.5.4
@@ -40,8 +41,8 @@ flutter:
       android:
         package: com.impaktek.impak_thermal_printer.impak_thermal_printer
         pluginClass: ImpakThermalPrinterPlugin
-      ios:
-        pluginClass: ImpakThermalPrinterPlugin
+      #ios:
+        #pluginClass: ImpakThermalPrinterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
