@@ -1,6 +1,6 @@
 name: impak_thermal_printer
 description: "A Thermal printer library"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/impaktek/impak_thermal_printer
 repository: https://github.com/impaktek/impak_thermal_printer
 
@@ -12,14 +12,14 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-  permission_handler: ^11.3.0
+  permission_handler: ^12.0.0+1
   logger: ^2.5.0
   flutter_esc_pos_utils: ^1.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
