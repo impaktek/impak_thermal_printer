@@ -2,7 +2,7 @@
 
 All notable changes to the Impak Thermal Printer Plugin will be documented in this file.
 
-## [0.0.1] - 2025-04-03
+## [0.0.2] - 2025-04-03
 
 ### Added
 - Initial release of the Impak Thermal Printer Plugin
